@@ -90,22 +90,6 @@ Open your browser and visit:
 ```
 ---
 
-## 📝 Project Structure
-
-Leave-Management/
-│
-├── index.php            # Login page
-├── dashboard.php        # Admin dashboard
-├── leave_request.php    # Leave submission form
-├── leave_history.php    # User leave history
-├── config.php           # Database connection
-├── css/                 # Stylesheets
-├── js/                  # JavaScript files
-├── assets/              # Images and icons
-└── README.md            # Documentation
-
----
-
 ## ⚙️ Configuration
 
 Adjustable parameters in `config.php`:
